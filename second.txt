@@ -4,3 +4,6 @@ it will nit shown in github
 change
 mine is not showing in github repository after commit
 let me make change again
+
+change 
+i logout and logged in again so i got all my commits which i made b4
